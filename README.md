@@ -1,10 +1,3 @@
-# Spring Boot Microservices Course
-This repository contains the source code for the [Spring Boot Microservices Course](https://www.youtube.com/playlist?list=PLuNxlOYbv61g_ytin-wgkecfWDKVCEDmB).
-
-![Spring Boot Microservices course](docs/youtube-thumbnail.png)
-
-We will build a BookStore application using Spring Boot, Spring Cloud, and Docker.
-
 ![BookStore Microservices Architecture](docs/bookstore-spring-microservices.png)
 
 ## Modules
@@ -121,16 +114,3 @@ Now you can access the observability stack using the following URLs:
 
 * Access Grafana at http://localhost:3000
 * Access Prometheus at http://localhost:9090
-
-
-## Other Learning Resources
-* [SivaLabs Blog](https://sivalabs.in)
-  * [Spring Boot Tutorials](https://www.sivalabs.in/spring-boot-tutorials/)
-  * [Kubernetes Tutorials](https://www.sivalabs.in/getting-started-with-kubernetes/)
-  * [Spring Security OAuth 2.0 Tutorials](https://www.sivalabs.in/spring-security-oauth2-tutorial-introduction/)
-  * [A Pragmatic Approach to Software Design](https://www.sivalabs.in/tomato-architecture-pragmatic-approach-to-software-design/)
-* [SivaLabs YouTube Channel](https://www.youtube.com/c/SivaLabs)
-  * [Spring Boot Tips Series](https://www.youtube.com/playlist?list=PLuNxlOYbv61jFFX2ARQKnBgkMF6DvEEic)
-  * [Spring Boot + Kubernetes Series](https://www.youtube.com/playlist?list=PLuNxlOYbv61h66_QlcjCEkVAj6RdeplJJ)
-  * [Spring Boot : The Missing Guide](https://www.youtube.com/playlist?list=PLuNxlOYbv61jZL1IiciTgWezZoqEp4WXh)
-  * [Java Testing Made Easy: Learn writing Unit, Integration, E2E & Performance Tests](https://www.youtube.com/playlist?list=PLuNxlOYbv61jtHHFHBOc9N7Dg5jn013ix)
